@@ -19,7 +19,7 @@
 
             Console.WriteLine("Removing GetPerimetre from Delegate");
 
-            rect -= helper.GetPreimeter;
+            // rect -= helper.GetPreimeter;
 
             rect(10, 5);
 
